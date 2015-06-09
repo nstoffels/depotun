@@ -1,6 +1,8 @@
 Test de modification
 ===============
 
+une autre modification pour tester la branche test sur git
+
 A simple Java EE 7 Sample
 ====================
 
