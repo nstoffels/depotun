@@ -3,6 +3,8 @@ Test de modification
 
 une autre modification pour tester la branche test sur git
 
+un test est en cours sur une branche parallèle.....
+
 A simple Java EE 7 Sample
 ====================
 
