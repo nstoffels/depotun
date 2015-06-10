@@ -19,6 +19,8 @@ git ne merge pas tout seul quand c'est le bordel.....il pourrait faire un effort
 
 on travail le commit .sts 
 
+test de la clé ssh 1
+
 
 A simple Java EE 7 Sample
 ====================
