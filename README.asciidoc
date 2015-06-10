@@ -17,6 +17,8 @@ gunther est très dangereux pour le cerveau
 
 git ne merge pas tout seul quand c'est le bordel.....il pourrait faire un effort
 
+on travail le commit .sts 
+
 
 A simple Java EE 7 Sample
 ====================
