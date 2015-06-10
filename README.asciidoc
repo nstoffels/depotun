@@ -1,11 +1,22 @@
 Test de modification
 ===============
 
+
+
+une autre modification pour tester la branche test sur git
+
+un test est en cours sur une branche parallèle.....
+
+et là, j'en met encore une seconde couche, c'est drôle non?
+
 création d'une tierce branche hisoire de tester un peu plus
 
 allez, encore plus de hotte ^^
 
 gunther est très dangereux pour le cerveau
+
+git ne merge pas tout seul quand c'est le bordel.....il pourrait faire un effort
+
 
 A simple Java EE 7 Sample
 ====================
