@@ -5,6 +5,8 @@ une autre modification pour tester la branche test sur git
 
 un test est en cours sur une branche parallèle.....
 
+et là, j'en met encore une seconde couche, c'est drôle non?
+
 A simple Java EE 7 Sample
 ====================
 
